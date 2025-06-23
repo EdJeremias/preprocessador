@@ -10,3 +10,17 @@ Este repositório serve para os alunos e alunas de LP (UFF, Rio das Ostras) inic
 Este repositório contém o arquivo de um pré-processador para a linguagem C.
 
 - Edmar Silva Jeremias, Igor Rimijo Pereira
+
+#Codigo utilizado para exemplo:
+// Programa: Alo Mundo!
+// Autor: Edmar e Igor
+
+#include "stdio.h"
+
+int main(void) {
+    printf("Ola mundo!\n");
+    return 0;
+}
+
+#Resultado
+int main(void){printf("Ola mundo!\n");return 0;}
