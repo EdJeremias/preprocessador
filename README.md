@@ -11,16 +11,9 @@ Este repositório contém o arquivo de um pré-processador para a linguagem C.
 
 - Edmar Silva Jeremias, Igor Rimijo Pereira
 
-#Codigo utilizado para exemplo:
-// Programa: Alo Mundo!
-// Autor: Edmar e Igor
+## Codigo utilizado para exemplo:
+![image](https://github.com/user-attachments/assets/7b2c9663-3396-4726-b069-21ad97c3bf95)
 
-#include "stdio.h"
 
-int main(void) {
-    printf("Ola mundo!\n");
-    return 0;
-}
-
-#Resultado
-int main(void){printf("Ola mundo!\n");return 0;}
+## Resultado
+![image](https://github.com/user-attachments/assets/f559932d-4fca-46b1-8543-4133ddf0071d)
